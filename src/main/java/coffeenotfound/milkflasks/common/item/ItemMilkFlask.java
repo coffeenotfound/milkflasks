@@ -103,7 +103,7 @@ public class ItemMilkFlask extends Item {
 	}
 	
 	public int getUseDuration(ItemStack stack) {
-		return 16;
+		return 12;
 	}
 	
 	public UseAction getUseAction(ItemStack stack) {
