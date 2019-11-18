@@ -111,8 +111,16 @@ dependencies {
 
 }
 
+sourceSets {
+	main {
+		resources {
+			exclude "_raw/"
+		}
+	}
+}
+
 // Example for how to get properties into the manifest for reading by the runtime..
-jar {
+jar {	
 	manifest {
 		attributes([
 			"Specification-Title": "milkflasks",
