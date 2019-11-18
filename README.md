@@ -3,7 +3,7 @@
 A little mod that adds flasks of milk which hastily cure one random potion effect. Useful when in a pinch.
 
 # Developing
-For Eclipse run `./gradlew eclipse`, then import as an existant Gradle project.
+For Eclipse run `./gradlew eclipse`, then import as an existing Gradle project.
 
 Launch configurations can be generated with `./gradlew genEclipseRuns` and then be
 imported with `File > Import... > Run/Debug > Launch Configurations`, but note that running them does
