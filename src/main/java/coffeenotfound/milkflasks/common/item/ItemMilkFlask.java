@@ -76,7 +76,7 @@ public class ItemMilkFlask extends Item {
 				// Get random effect index that we haven't tried removing yet
 				int randomIndex;
 				do randomIndex = world.rand.nextInt(effectList.size());
-				while(triedBitSet != null && !triedBitSet.get(randomIndex));
+				while(triedBitSet != null && triedBitSet.get(randomIndex));
 				
 				// Try removing effect
 				EffectInstance effectInstance = effectList.get(randomIndex);
