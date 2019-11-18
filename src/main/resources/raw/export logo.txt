@@ -1,0 +1,2 @@
+1.) Export logo from Affinity Photo at 8960x1440 (8x) with Nearest Neighbor
+2.) Downsample in paint.net to 1120x180 with Super Sampling

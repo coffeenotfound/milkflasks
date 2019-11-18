@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:milk_bucket"
+		},
+		{
+			"item": "minecraft:glass_bottle"
+		}
+	],
+	"result": {
+		"item": "milkflasks:milk_flask",
+		"count": 1
+	}
+}
