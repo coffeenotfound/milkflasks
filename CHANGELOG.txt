@@ -1,3 +1,7 @@
+# v1.0.1
+* Fix algorithm choosing the random potion effect being completely wrong
+* Change mod logo margins to look better on most resolution
+
 # v1.0.0
 * Initial release
 * Yay!
